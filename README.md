@@ -2,11 +2,10 @@
 
   <img src="https://raw.githubusercontent.com/Mono-Code-Scheme/assets/refs/heads/main/logos/logo-round.svg" width="120">
   
-  # Mono Code
+  # Color Scheme
 </div>
 
-# Color Scheme
-## Panther
+# Panther
 Panther is the dark variant of the color scheme
 
 |Preview|Name|Hex|RGB|
@@ -31,8 +30,8 @@ Panther is the dark variant of the color scheme
 | |Pink|#FF72F6 | |
 
 
-## Lynx
-Panther is the dark variant of the color scheme
+# Lynx
+Lynx is the light variant of the color scheme
 
 
 |Preview|Name|Hex|RGB|
